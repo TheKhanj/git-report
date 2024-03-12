@@ -1,0 +1,12 @@
+{
+  "name": "work-report",
+  "scripts": {
+    "build": "parcel build src/**/*.html",
+    "start": "parcel src/**/*.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.71.1",
+    "typescript": "^5.4.2"
+  }
+}
